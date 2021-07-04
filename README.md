@@ -1,6 +1,6 @@
 # EyeSafe
 
-EyeSafe is an application designed to reduce eye strain and simply notify the user to take rests at time intervals.
+EyeSafe is an application designed to reduce eye strain and simply notifies the user to take short breaks at time intervals.
 
 ## Installation
 
