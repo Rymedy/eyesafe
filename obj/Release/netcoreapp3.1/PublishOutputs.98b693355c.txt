@@ -1,0 +1,5 @@
+C:\Users\Richard\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApp1.exe
+C:\Users\Richard\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApp1.dll
+C:\Users\Richard\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApp1.deps.json
+C:\Users\Richard\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApp1.runtimeconfig.json
+C:\Users\Richard\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\netcoreapp3.1\publish\WinFormsApp1.pdb
